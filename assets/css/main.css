@@ -1305,6 +1305,9 @@ section,
   transition: 0.3s;
 }
 
+.btn-download:hover {
+  background: #2e3ebf; /* لون أغمق عند hover */
+}
 
 
 /*--------------------------------------------------------------
